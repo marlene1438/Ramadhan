@@ -2,7 +2,7 @@
     "Ads": [
       {
         "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
+        "select_backup_ads":"APPLOVIN-M",
         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
         "main_ads_natives":"",
@@ -197,17 +197,17 @@
     //     "duration": "245",
     //     "lyrics": "<p style=\"text-align: center;\">Nappeun geora deo joheun geoya<br />Sogeuron algo issjanha<br />Ijen meomchwojiji anhneun geoya<br />You can't stop<br />Jom deo soljikhaejyeobwa<br /><br />Stop<br />Ije geuman bogo siheomgongbuhae<br />Ni bumonimgwa bujangnim nal miwohae<br />Bwassdeon yeongsang gakjong sajin teuwiteo<br />Beuiaep bonboyaji<br />Ara joheun geol eotteokhae<br />Geumanhae myubineun najunge haeseokhago<br />Eochapi nae sajin ni bangedo manhjanheo<br />Han sigani mwoya irinyeoneul sunsakhae<br />I noraen naega nege juneun sang<br />Chakhae<br /><br />Beol batneun geon anijanha<br />Iri wa nan neoui paradise<br />Can't close your eyes<br />Can't close your eyes<br />Balbeodungchyeobwado deoneun soyongeopseul geol<br />Nal geobuhaji ma<br />Geunyang nuneul gamgo gwi giuryeobwa<br /><br />Pirisoril ttarawa i noraereul ttarawa<br />Jogeum wiheomhaedo na cham daljanha<br />Neol guhareo on geoya<br />Neol mangchireo on geoya<br />Niga nal bureun geoya bwa daljanha<br />Pirisoril ttarawa<br /><br />I'm takin' over you<br />I'm takin' over you<br /><br />Imi sijakdoen geol aljanha<br />Geu soril deutge doen sungan<br /><br />Eojjeomyeon geurae naneun jogeum wiheomhae<br />Jogeum wiheomhae<br />Neol ikkeuneun piri buneun sanaicheoreom<br />Naneun neoreul siheomhae neoreul siheomhae<br />Almyeonseodo ikkeullineun seonakgwacheoreom<br /><br />Nae pirineun modeun geol kkaewo<br />Geu sorin neol aetaewo deo<br />Ikkeullyeo baneunghaneun neo<br />Kkeunhimeopsi sumeul bureonae<br />Nan neoui guilty pleasure<br />Heeonaol sun eopseo<br />Never<br /><br />Beol batneun geon anijanha<br />Iri wa nan neoui paradise<br />Can't close your eyes<br />Can't close your eyes<br />Balbeodungchyeobwado deoneun soyongeopseul geol<br />Nal geobuhaji ma<br />Geunyang nuneul gamgo gwi giuryeobwa<br /><br />Pirisoril ttarawa i noraereul ttarawa<br />Jogeum wiheomhaedo na cham daljanha<br />Neol guhareo on geoya<br />Neol mangchireo on geoya<br />Niga nal bureun geoya bwa daljanha<br /><br />Geurae naega jom wiheomhae<br />Nado nareul gamdang moshae<br />Geokjeong ma naui soneun<br />Neoegeman ttatteushae ttatteushae<br /><br />Manyage naega neol<br />Mangchigo issneun georamyeon<br />Nareul yongseohaejullae<br />Neon na eopsin mot sanikka<br />Da anikka<br /><br />I'm takin' over you<br />I'm takin' over you</p>" 
     //   },
+    //   {
+    //     "id": 19,
+    //     "name_category": "BTS Song",
+    //     "title": "We are Bulletproof",
+    //     "image": "file:///android_asset/image/gambar.jpg",
+    //     "link_mp3": "mp3/19WeareBulletproof.mp3",
+    //     "duration": "261",
+    //     "lyrics": "<p style=\"text-align: center;\">Gajin ge kkumbakke eopseonne<br />Nun tteumyeon ppuyeon achimppun<br />Bamsae chumeul chumyeo noraehae<br />Geu kkeuchi eopdeon akbodeul<br /><br />Ay urin hogiropge shout<br />'Da deonjyeobwa'<br />Sesanggwa cheot ssaum<br />Don't wanna die<br />But so much pain<br />Too much cryin'<br />So mudyeojineun kallal<br /><br />Oh I<br />We were only seven<br />I<br />But we have you all now<br />Ilgobui gyeoulgwa bom dwie<br />Ireoke matjabeun sonkkeute<br />Oh I<br />Yeah we got to heaven<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />We are bullet bullet bulletproof<br />Bujeongjeogin siseone matseo urin haenaetgu<br />Nappeun gieokdo maneun siryeondo<br />Da hogiropge urin maganaetji bulletproof<br /><br />Neul saenggakae<br />Ajik kkumsogin geon anilkka<br />Gireotdeon gyeoul<br />Kkeute on ge jinjja bomilkka<br />Modu biutdeon<br />Hanttaen bukkeureopdeon ireum<br />Igeon soero doen jeungmyeong<br />Bullet-proof.<br /><br />Oh I<br />We were only seven<br />I<br />But we have you all now<br />Ilgobui gyeoulgwa bom dwie<br />Ireoke matjabeun sonkkeute<br />Oh I<br />Yeah we got to heaven<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />Oh oh<br />Dasin meomchuji aneullae<br />Yeogi uriga hamkkeigie<br />Tell me your every story<br />Tell me why you don't stop this<br />Tell me why you still walkin'<br />Walkin' with us<br />(Yeah we got to heaven)<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />(Yeah we have you have you)<br />Yeah we are not seven, with you<br />Yeah we are not seven, with you<br /><br />Yeah we are not seven<br />With you</p>" 
+    //   },
       {
         "id": 19,
-        "name_category": "BTS Song",
-        "title": "We are Bulletproof",
-        "image": "file:///android_asset/image/gambar.jpg",
-        "link_mp3": "mp3/19WeareBulletproof.mp3",
-        "duration": "261",
-        "lyrics": "<p style=\"text-align: center;\">Gajin ge kkumbakke eopseonne<br />Nun tteumyeon ppuyeon achimppun<br />Bamsae chumeul chumyeo noraehae<br />Geu kkeuchi eopdeon akbodeul<br /><br />Ay urin hogiropge shout<br />'Da deonjyeobwa'<br />Sesanggwa cheot ssaum<br />Don't wanna die<br />But so much pain<br />Too much cryin'<br />So mudyeojineun kallal<br /><br />Oh I<br />We were only seven<br />I<br />But we have you all now<br />Ilgobui gyeoulgwa bom dwie<br />Ireoke matjabeun sonkkeute<br />Oh I<br />Yeah we got to heaven<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />We are bullet bullet bulletproof<br />Bujeongjeogin siseone matseo urin haenaetgu<br />Nappeun gieokdo maneun siryeondo<br />Da hogiropge urin maganaetji bulletproof<br /><br />Neul saenggakae<br />Ajik kkumsogin geon anilkka<br />Gireotdeon gyeoul<br />Kkeute on ge jinjja bomilkka<br />Modu biutdeon<br />Hanttaen bukkeureopdeon ireum<br />Igeon soero doen jeungmyeong<br />Bullet-proof.<br /><br />Oh I<br />We were only seven<br />I<br />But we have you all now<br />Ilgobui gyeoulgwa bom dwie<br />Ireoke matjabeun sonkkeute<br />Oh I<br />Yeah we got to heaven<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />Oh oh<br />Dasin meomchuji aneullae<br />Yeogi uriga hamkkeigie<br />Tell me your every story<br />Tell me why you don't stop this<br />Tell me why you still walkin'<br />Walkin' with us<br />(Yeah we got to heaven)<br /><br />Naege doreul deonjyeo<br />Urin geobi eopseo anymore<br />We are we are together bulletproof<br />(Yeah we have you have you)<br />Tto gyeouri wado<br />Nuga nal magado georeoga<br />We are we are forever bulletproof<br />(Yeah we got to heaven)<br /><br />(Yeah we have you have you)<br />Yeah we are not seven, with you<br />Yeah we are not seven, with you<br /><br />Yeah we are not seven<br />With you</p>" 
-      },
-      {
-        "id": 29,
         "name_category": "BTS Song",
         "title": "Best_Of_Me",
         "image": "file:///android_asset/image/gambar.jpg",
@@ -216,7 +216,7 @@
         "lyrics": "" 
       },
       {
-        "id": 21,
+        "id": 20,
         "name_category": "BTS Song",
         "title": "Dis_ease",
         "image": "file:///android_asset/image/gambar.jpg",
@@ -225,7 +225,7 @@
         "lyrics": "" 
       },
       {
-        "id": 22,
+        "id": 21,
         "name_category": "BTS Song",
         "title": "For_Youth",
         "image": "file:///android_asset/image/gambar.jpg",
@@ -234,7 +234,7 @@
         "lyrics": "" 
       },
       {
-        "id": 23,
+        "id": 22,
         "name_category": "BTS Song",
         "title": "Go_Go",
         "image": "file:///android_asset/image/gambar.jpg",
@@ -243,7 +243,7 @@
         "lyrics": "" 
       },
       {
-        "id": 24,
+        "id": 23,
         "name_category": "BTS Song",
         "title": "Magic_Shop",
         "image": "file:///android_asset/image/gambar.jpg",
